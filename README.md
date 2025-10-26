@@ -1,4 +1,4 @@
-## Project Overview
+## 📘Project Overview
 This project focuses on building a reliable, scalable, and secure web application architecture on Amazon Web Services (AWS) to efficiently manage varying user traffic.  
 The goal is to achieve high availability, cost optimization, and strong data protection using AWS best practices.
 
