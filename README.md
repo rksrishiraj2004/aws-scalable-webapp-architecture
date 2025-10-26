@@ -4,7 +4,7 @@ The goal is to achieve high availability, cost optimization, and strong data pro
 
 ---
 
-##  Key Responsibilities & Achievements
+##  🗝️Key Responsibilities & Achievements
 
 - Designed and deployed a multi-tier AWS architecture using industry best practices.  
 - Configured services to ensure scalability, fault tolerance, and high availability.  
